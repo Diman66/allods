@@ -1,0 +1,21 @@
+{
+  "name": "allods",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ],
+  "devDependencies": {
+    "sass": "^1.68.0",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16"
+  }
+}
